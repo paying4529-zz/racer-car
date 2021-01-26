@@ -26,6 +26,7 @@ git clone
 ### 其他功能
 可以選擇自己喜歡的車輛樣式，每輛車子性能稍微不同。
 遊戲通關最後會給你一組密碼，將密碼輸入linebot的聊天室就可以順利通關囉!
-
+## PPT link
+https://docs.google.com/presentation/d/1Pel3SOw2NLE6oWWCBJZEqst4ULnxo402zSvxunYcg3c/edit?usp=sharing
 ## Adapted from
 https://codeincomplete.com/articles/javascript-racer/
