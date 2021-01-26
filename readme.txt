@@ -1,1 +1,0 @@
-解壓縮資料夾之後直接執行final game.html即可
